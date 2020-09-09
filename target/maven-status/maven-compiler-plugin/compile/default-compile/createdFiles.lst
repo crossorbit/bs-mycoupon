@@ -1,0 +1,11 @@
+cnabookstore\CouponUsed.class
+cnabookstore\AbstractEvent.class
+cnabookstore\CouponRefund.class
+cnabookstore\MyCoupon.class
+cnabookstore\CouponCreated.class
+cnabookstore\MyCouponViewHandler.class
+cnabookstore\PolicyHandler.class
+cnabookstore\config\kafka\KafkaProcessor.class
+cnabookstore\AbstractEvent$1.class
+cnabookstore\MycouponApplication.class
+cnabookstore\MyCouponRepository.class
